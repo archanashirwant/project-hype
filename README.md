@@ -1,4 +1,3 @@
-# Done by Archana Shirwant
 
 https://github.com/archanashirwant/project-hype.git
 
